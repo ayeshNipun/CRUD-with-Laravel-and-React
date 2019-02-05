@@ -14,7 +14,7 @@
         
     </head>
     <body>
-		<div id="index"></div>
+		<div id="blog"></div>
 
 		<script src="/js/app.js"></script>
     </body>
